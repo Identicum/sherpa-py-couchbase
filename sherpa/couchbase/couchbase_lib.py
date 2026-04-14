@@ -1,5 +1,5 @@
 # sherpa-py-couchbase is available under the MIT License. https://github.com/Identicum/sherpa-py-midpoint/
-# Copyright (c) 2025, Identicum LLC - https://identicum.com/
+# Copyright (c) 2026, Identicum LLC - https://identicum.com/
 #
 # Author: Gustavo J Gallardo - ggallard@identicum.com
 #
