@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='sherpa-py-couchbase',
-    version='1.1.1',
+    version='1.1.2',
     description='Python utilities for Couchbase',
     url='git@github.com:Identicum/sherpa-py-couchbase.git',
     author='Identicum',
