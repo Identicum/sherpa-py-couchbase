@@ -1,0 +1,13 @@
+name: release
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  release:
+    uses: Identicum/github-actions/.github/workflows/python-library-release.yml@main
+    permissions:
+      contents: write
