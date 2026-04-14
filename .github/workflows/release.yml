@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'sherpa/**'
+      - 'setup.py'
   workflow_dispatch:
 
 jobs:
